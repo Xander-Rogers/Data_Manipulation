@@ -1,8 +1,8 @@
-# Data_Manipulation
+# Weather-Station-Example
 
-These are examples of data manipulation programs that envolope core concepts of file handling, data manipulation, and arguments.
+Using sample weather station data in the data.txt, specific values from the file can be handled, and manipulated to generate a desired outcome.
 
-Projects can be found in the other branches of this repository.
+Information about the program can be found in the docstrings and comments in the data_sort.py
 
 All of these are up for public disposal, and can be modified or redistributed for educational purposes.
 
